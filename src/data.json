@@ -1,0 +1,22 @@
+{
+    "wins": [
+        {
+            "campaign": "1",
+            "episode": "1",
+            "video": "https://www.youtube.com/embed/ESRKFKRSOzs?start=4",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "2",
+            "video": "https://www.youtube.com/embed/SpT5awKyl7o?start=1",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        }
+    ]
+}
