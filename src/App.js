@@ -30,13 +30,31 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1><strong>*SPOILERS*</strong> - Campaign {this.state.win.campaign} Episode {this.state.win.episode}</h1>
+        </header>
+        <div className="App-content">
           <div className="video">
-            <iframe width="560" height="315" src={this.state.win.video + '&autoplay=1'} frameBorder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen>
+            <h2 className="video-title">{ this.state.win.title}</h2>
+            <h3 className="versus">{ this.state.win.victor } VS { this.state.win.defeated }</h3>
+            <iframe width="560"
+                    height="315"
+                    src={this.state.win.video + '&autoplay=1'}
+                    title={this.state.win.title}
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+            >
             </iframe>
           </div>
           <button onClick={this.howDoYouWantToDoThis} className="square">How do you want to do this?</button>
-        </header>
+        </div>
+        <footer className="App-footer">
+          <p className="credits">
+            &copy; Copyright - All content belongs to <a href="https://critrole.com/" target="_blank" rel="noopener noreferrer" title="Critical Role" className="App-link">Critical Role</a>.
+          </p>
+          <p className="credits">
+            Credit goes to <a href="https://www.critrolestats.com/" target="_blank" rel="noopener noreferrer" title="CritRoleStats" className="App-link">CritRoleStats</a> for providing the list of episodes and timestamps.
+          </p>
+        </footer>
       </div>
     );
   }

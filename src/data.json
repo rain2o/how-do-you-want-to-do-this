@@ -3,7 +3,10 @@
         {
             "campaign": "1",
             "episode": "1",
-            "video": "https://www.youtube.com/embed/ESRKFKRSOzs?start=4",
+            "video": "https://www.youtube.com/embed/i-p9lWIhcLQ?start=10820",
+            "title": "Arrival at Kraghammer | Critical Role: VOX MACHINA | Episode 1",
+            "victor": "Scanlan",
+            "defeated": "Naga Abomination",
             "images": {
                 "left": "",
                 "right": ""
@@ -12,7 +15,754 @@
         {
             "campaign": "1",
             "episode": "2",
-            "video": "https://www.youtube.com/embed/SpT5awKyl7o?start=1",
+            "video": "https://www.youtube.com/embed/JTie0S_5gjE?start=9096",
+            "title": "Into the Greyspine Mines | Critical Role: VOX MACHINA | Episode 2",
+            "victor": "Vax’ildan",
+            "defeated": "Umber Hulk",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "4",
+            "video": "https://www.youtube.com/embed/kGxiZNbjwGI?start=10047",
+            "title": "Attack on the Duergar Warcamp | Critical Role: VOX MACHINA | Episode 4",
+            "victor": "Grog",
+            "defeated": "Bulette",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "5",
+            "video": "https://www.youtube.com/embed/u6QpXDL7E8Y?start=10394",
+            "title": "The Trick About Falling | Critical Role: VOX MACHINA | Episode 5",
+            "victor": "Keyleth",
+            "defeated": "Hook Horror",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "7",
+            "video": "https://www.youtube.com/embed/XGs3bOX4XFQ?start=13052",
+            "title": "The Throne Room | Critical Role: VOX MACHINA | Episode 7",
+            "victor": "Scanlan",
+            "defeated": "King Murghol",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "8",
+            "video": "https://www.youtube.com/embed/A14MzQxxdwM?start=9576",
+            "title": "Glass and Bone | Critical Role: VOX MACHINA | Episode 8",
+            "victor": "Percy",
+            "defeated": "Abyssal Abomination",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "10",
+            "video": "https://www.youtube.com/embed/AvnaMU7Dr-E?start=4671",
+            "title": "K'Varn Revealed | Critical Role: VOX MACHINA | Episode 10",
+            "victor": "Vax’ildan",
+            "defeated": "Cloaker",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "11",
+            "video": "https://www.youtube.com/embed/xoYyHYsl5po?start=15581",
+            "title": "The Temple Showdown | Critical Role: VOX MACHINA | Episode 11",
+            "victor": "Vex’ahlia",
+            "defeated": "K’varn the Mad",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "11",
+            "video": "https://www.youtube.com/embed/xoYyHYsl5po?start=16352",
+            "title": "The Temple Showdown | Critical Role: VOX MACHINA | Episode 11",
+            "victor": "Tiberius",
+            "defeated": "K’varn the Undead",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "15",
+            "video": "https://www.youtube.com/embed/_dIBh0dGhzI?start=12249",
+            "title": "Skyward | Critical Role: VOX MACHINA | Episode 15",
+            "victor": "Percy",
+            "defeated": "Wyvern",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "17",
+            "video": "https://www.youtube.com/embed/QDdT5UqGaDw?start=10769",
+            "title": "Hubris | Critical Role: VOX MACHINA | Episode 17",
+            "victor": "Tiberius",
+            "defeated": "Hydra",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "19",
+            "video": "https://www.youtube.com/embed/IW6GgFQg3kk?start=12217",
+            "title": "Trial of the Take: Part 2 (ft. FELICIA DAY) | Critical Role: VOX MACHINA | Episode 19",
+            "victor": "Zahra",
+            "defeated": "Rimefang the White Dragon",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "21",
+            "video": "https://www.youtube.com/embed/zGaISHs2s7Q?start=13570",
+            "title": "Trial of the Take: Part 4 | Critical Role: VOX MACHINA | Episode 21",
+            "victor": "Vax’ildan",
+            "defeated": "Hotis the Rakshasa",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "23",
+            "video": "https://www.youtube.com/embed/FM6L4tuyXq0?start=5147",
+            "title": "The Rematch | Critical Role: VOX MACHINA | Episode 23",
+            "victor": "Grog",
+            "defeated": "Kern the Hammer",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "25",
+            "video": "https://www.youtube.com/embed/yrrB_q-V8G0?start=11292",
+            "title": "Crimson Diplomacy | Critical Role: VOX MACHINA | Episode 25",
+            "victor": "Percy",
+            "defeated": "The Broker",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "28",
+            "video": "https://www.youtube.com/embed/yE27NwtXjPY?start=3430",
+            "title": "The Sun Tree | Critical Role: VOX MACHINA | Episode 28",
+            "victor": "Grog",
+            "defeated": "Behir",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "29",
+            "video": "https://www.youtube.com/embed/gq4av949-3Y?start=12122",
+            "title": "Whispers | Critical Role: VOX MACHINA | Episode 29",
+            "victor": "Percy",
+            "defeated": "Sir Kerrion Stonefell",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "30",
+            "video": "https://www.youtube.com/embed/MtS1LGdqxuI?start=4966",
+            "title": "Stoke the Flames | Critical Role: VOX MACHINA | Episode 30",
+            "victor": "Scanlan",
+            "defeated": "Sir Kerrion Stonefell",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "31",
+            "video": "https://www.youtube.com/embed/CVSgD1iB1G0?start=5567",
+            "title": "Gunpowder Plot: Part 1 | Critical Role: VOX MACHINA | Episode 31",
+            "victor": "Trinket",
+            "defeated": "Vampire Count Tylieri",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "32",
+            "video": "https://www.youtube.com/embed/B5sUXSaTHKc?start=4912",
+            "title": "Against the Tide of Bone | Critical Role: VOX MACHINA | Episode 32",
+            "victor": "Pike",
+            "defeated": "Zombie Stone Giant 1",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "32",
+            "video": "https://www.youtube.com/embed/B5sUXSaTHKc?start=6581",
+            "title": "Against the Tide of Bone | Critical Role: VOX MACHINA | Episode 32",
+            "victor": "Vex’ahlia",
+            "defeated": "Zombie Stone Giant 2",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "33",
+            "video": "https://www.youtube.com/embed/EtdswJtQ_Ew?start=7247",
+            "title": "Reunions: Part 1 | Critical Role: VOX MACHINA | Episode 33",
+            "victor": "Percy",
+            "defeated": "Professor Anders",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "33",
+            "video": "https://www.youtube.com/embed/iP1gylnxfLU?start=7234",
+            "title": "Reunions: Part 2 | Critical Role: VOX MACHINA | Episode 33",
+            "victor": "Scanlan",
+            "defeated": "Ghost",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "34",
+            "video": "https://www.youtube.com/embed/2AqLu-u-GcY?start=13510",
+            "title": "Race to the Ziggurat | Critical Role: VOX MACHINA | Episode 34",
+            "victor": "Keyleth",
+            "defeated": "Sylas Briarwood",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "34",
+            "video": "https://www.youtube.com/embed/2AqLu-u-GcY?start=15677",
+            "title": "Race to the Ziggurat | Critical Role: VOX MACHINA | Episode 34",
+            "victor": "Percy",
+            "defeated": "Delilah Briarwood",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "35",
+            "video": "https://www.youtube.com/embed/p8p5qZcqIk0?start=7326",
+            "title": "Denouement: Part 1 | Critical Role: VOX MACHINA | Episode 35",
+            "victor": "Trinket and Grog",
+            "defeated": "Orthax",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "37",
+            "video": "https://www.youtube.com/embed/1cbxJRfvBtI?start=15179",
+            "title": "A Musician's Nostalgia | Critical Role: VOX MACHINA | Episode 37",
+            "victor": "Percy",
+            "defeated": "Riskel Daxio",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "39",
+            "video": "https://www.youtube.com/embed/9EToAf4nhDw?start=5107",
+            "title": "Omens | Critical Role: VOX MACHINA | Episode 39",
+            "victor": "Percy",
+            "defeated": "Purple Worm",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "42",
+            "video": "https://www.youtube.com/embed/qWoloOxtvc0?start=8069",
+            "title": "Dangerous Dealings | Critical Role: VOX MACHINA | Episode 42",
+            "victor": "Vax’ildan",
+            "defeated": "Wyvern",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "44",
+            "video": "https://www.youtube.com/embed/KHsA0R_GovU?start=15345",
+            "title": "The Sunken Tomb | Critical Role: VOX MACHINA | Episode 44",
+            "victor": "Zahra",
+            "defeated": "Beholder",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "46",
+            "video": "https://www.youtube.com/embed/uw1crQ1d9AU?start=4498",
+            "title": "Cindergrove Revisited | Critical Role: VOX MACHINA | Episode 46",
+            "victor": "Scanlan",
+            "defeated": "Large Fire Elemental",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "46",
+            "video": "https://www.youtube.com/embed/uw1crQ1d9AU?start=10345",
+            "title": "Cindergrove Revisited | Critical Role: VOX MACHINA | Episode 46",
+            "victor": "Scanlan",
+            "defeated": "Efreeti",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "49",
+            "video": "https://www.youtube.com/embed/PfvVssT83MU?start=5288",
+            "title": "A Name Is Earned | Critical Role: VOX MACHINA | Episode 49",
+            "victor": "Grog",
+            "defeated": "Orc War Chief",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "52",
+            "video": "https://www.youtube.com/embed/9QXZ4LfSi84?start=9175",
+            "title": "The Kill Box | Critical Role: VOX MACHINA | Episode 52",
+            "victor": "Grog",
+            "defeated": "Kevdak",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "52",
+            "video": "https://www.youtube.com/embed/9QXZ4LfSi84?start=10527",
+            "title": "The Kill Box | Critical Role: VOX MACHINA | Episode 52",
+            "victor": "Grog",
+            "defeated": "Greenbeard",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "55",
+            "video": "https://www.youtube.com/embed/A6ma5W_TSDE?start=14816",
+            "title": "Umbrasyl | Critical Role: VOX MACHINA | Episode 55",
+            "victor": "Grog",
+            "defeated": "Umbrasyl",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "58",
+            "video": "https://www.youtube.com/embed/nRBzpiPccOs?start=5670",
+            "title": "A Cycle of Vengeance | Critical Role: VOX MACHINA | Episode 58",
+            "victor": "Pike",
+            "defeated": "Hotis the Rakshasa",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "62",
+            "video": "https://www.youtube.com/embed/QePayxU0kKo?start=7600",
+            "title": "Uninviting Waters | Critical Role: VOX MACHINA | Episode 62",
+            "victor": "Keyleth",
+            "defeated": "Feymire Crocodile",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "63",
+            "video": "https://www.youtube.com/embed/OS5aMcxkldI?start=13054",
+            "title": "The Echo Tree | Critical Role: VOX MACHINA | Episode 63",
+            "victor": "Grog",
+            "defeated": "Saundor",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "66",
+            "video": "https://www.youtube.com/embed/jgmBV5NA2A8?start=4600",
+            "title": "A Traveler's Gamble | Critical Role: VOX MACHINA | Episode 66",
+            "victor": "Grog",
+            "defeated": "Cobalt Golem",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "68",
+            "video": "https://www.youtube.com/embed/RCnwjLK_ZuQ?start=2994",
+            "title": "Cloak and Dagger | Critical Role: VOX MACHINA | Episode 68",
+            "victor": "Percy",
+            "defeated": "Maelstrom",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "68",
+            "video": "https://www.youtube.com/embed/RCnwjLK_ZuQ?start=11520",
+            "title": "Cloak and Dagger | Critical Role: VOX MACHINA | Episode 68",
+            "victor": "Grog",
+            "defeated": "Luska",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "68",
+            "video": "https://www.youtube.com/embed/RCnwjLK_ZuQ?start=15772",
+            "title": "Cloak and Dagger | Critical Role: VOX MACHINA | Episode 68",
+            "victor": "Vox Machina",
+            "defeated": "Anna Ripley",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "71",
+            "video": "https://www.youtube.com/embed/-I_tnzBKSWk?start=15908",
+            "title": "Vorugal | Critical Role: VOX MACHINA | Episode 71",
+            "victor": "Grog",
+            "defeated": "Yenk the Goristro",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "71",
+            "video": "https://www.youtube.com/embed/-I_tnzBKSWk?start=16515",
+            "title": "Vorugal | Critical Role: VOX MACHINA | Episode 71",
+            "victor": "Vex’ahlia",
+            "defeated": "Vorugal",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "76",
+            "video": "https://www.youtube.com/embed/L4Sb53wvbKI?start=9568",
+            "title": "Brawl in the Arches | Critical Role: VOX MACHINA | Episode 76",
+            "victor": "Scanlan",
+            "defeated": "Ghurrix the Pit Fiend",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "77",
+            "video": "https://www.youtube.com/embed/43gRUYn4x_M?start=8497",
+            "title": "Clash at Daxio | Critical Role: VOX MACHINA | Episode 77",
+            "victor": "Vax’ildan",
+            "defeated": "Fire Giant General",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "77",
+            "video": "https://www.youtube.com/embed/43gRUYn4x_M?start=9725",
+            "title": "Clash at Daxio | Critical Role: VOX MACHINA | Episode 77",
+            "victor": "Grog",
+            "defeated": "Ember Roc",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "77",
+            "video": "https://www.youtube.com/embed/43gRUYn4x_M?start=10072",
+            "title": "Clash at Daxio | Critical Role: VOX MACHINA | Episode 77",
+            "victor": "Vex’ahlia",
+            "defeated": "Gatekeeper Xanthas",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "79",
+            "video": "https://www.youtube.com/embed/THyXWq5iS0k?start=11990",
+            "title": "Thordak | Critical Role: VOX MACHINA | Episode 79",
+            "victor": "Vax’ildan",
+            "defeated": "Thordak",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "83",
+            "video": "https://www.youtube.com/embed/4z_wF_SJR2I?start=10192",
+            "title": "The Deceiver's Stand | Critical Role: VOX MACHINA | Episode 83",
+            "victor": "Kerrek",
+            "defeated": "Raishan",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "85",
+            "video": "https://www.youtube.com/embed/N7DuwqJtCGI?start=4070",
+            "title": "A Bard's Lament | Critical Role: VOX MACHINA | Episode 85",
+            "victor": "Grog",
+            "defeated": "Earthbreaker Groon",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "93",
+            "video": "https://www.youtube.com/embed/Tcj90Lu6Tyk?start=7149",
+            "title": "Bats Out of Hell | Critical Role: VOX MACHINA | Episode 93",
+            "victor": "Tova",
+            "defeated": "Utugash the Pit Fiend",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "94",
+            "video": "https://www.youtube.com/embed/BNaWnFwfGJc?start=13900",
+            "title": "Jugs and Rods | Critical Role: VOX MACHINA | Episode 94",
+            "victor": "Vex’ahlia",
+            "defeated": "Gray Render",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "98",
+            "video": "https://www.youtube.com/embed/H84po-1-GB0?start=14879",
+            "title": "The Mines of the Many | Critical Role: VOX MACHINA | Episode 98",
+            "victor": "Vex’ahlia",
+            "defeated": "Symphior the Withered Planetar",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "100",
+            "video": "https://www.youtube.com/embed/Gyk7vcIgPv8?start=19368",
+            "title": "Unfinished Business | Critical Role RPG Episode 100",
+            "victor": "Scanlan",
+            "defeated": "Necromancer",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "102",
+            "video": "https://www.youtube.com/embed/N1A-JGIF1Vc?start=13060",
+            "title": "Race to the Tower | Critical Role RPG Episode 102",
+            "victor": "Percy",
+            "defeated": "Delilah Briarwood",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "107",
+            "video": "https://www.youtube.com/embed/Cr2Rc7MRaf0?start=10263",
+            "title": "Scaldseat | Critical Role RPG Episode 107",
+            "victor": "Grog",
+            "defeated": "Momma Magma Bulette",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "108",
+            "video": "https://www.youtube.com/embed/2sBrNMR5FRE?start=3171",
+            "title": "The Core Anvil | Critical Role RPG Episode 108",
+            "victor": "Percy",
+            "defeated": "Smelter Guardian 1",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "108",
+            "video": "https://www.youtube.com/embed/2sBrNMR5FRE?start=13140",
+            "title": "The Core Anvil | Critical Role RPG Episode 108",
+            "victor": "Keyleth",
+            "defeated": "Forge Guardian",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "110",
+            "video": "https://www.youtube.com/embed/5qQMkxfWkSw?start=5566",
+            "title": "The Climb Within | Critical Role RPG Episode 110",
+            "victor": "Pike",
+            "defeated": "Earth Elemental 1",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "110",
+            "video": "https://www.youtube.com/embed/5qQMkxfWkSw?start=12503",
+            "title": "The Climb Within | Critical Role RPG Episode 110",
+            "victor": "Pike",
+            "defeated": "Undead Troll 3",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "113",
+            "video": "https://www.youtube.com/embed/zUXL--sSc3A?start=9331",
+            "title": "The Final Ascent | Critical Role RPG Episode 113",
+            "victor": "Vex’ahlia",
+            "defeated": "Delilah Briarwood",
+            "images": {
+                "left": "",
+                "right": ""
+            }
+        },
+        {
+            "campaign": "1",
+            "episode": "114",
+            "video": "https://www.youtube.com/embed/W-SMrG0QLc0?start=19560",
+            "title": "Vecna, the Ascended | Critical Role RPG Episode 114",
+            "victor": "Vox Machina",
+            "defeated": "Vecna, the Ascended",
             "images": {
                 "left": "",
                 "right": ""
