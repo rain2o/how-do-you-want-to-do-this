@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import data from './data.json';
+import Artwork from './components/Artwork'
 
 function randomExcept(skip) {
   let random = Math.floor(Math.random() * data.wins.length);
@@ -41,33 +42,13 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        {this.state.victorImg && (
-          <div id="bg-left" className="artwork">
-            <img src={ require(`./artwork/${this.state.victorImg.artwork}`) } alt="" />
-            <a className="artwork-credit App-link"
-                href={data.artists[this.state.victorImg.credit]}
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-              Artwork by @{ this.state.victorImg.credit }
-            </a>
-          </div>
-        )}
-        {this.state.victorImg && (
-          <div id="bg-right" className="artwork">
-            <img src={ require(`./artwork/${this.state.defeatedImg.artwork}`) } alt="" />
-            <a className="artwork-credit App-link"
-                href={data.artists[this.state.defeatedImg.credit]}
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-              Artwork by @{ this.state.defeatedImg.credit }
-            </a>
-          </div>
-        )}
+        {this.state.victorImg && <Artwork art={this.state.victorImg} pos="left" />}
+        {this.state.defeatedImg && <Artwork art={this.state.defeatedImg} pos="right" />}
+
         <header className="App-header">
           <h1><strong>*SPOILERS*</strong> - Campaign {this.state.win.campaign} Episode {this.state.win.episode}</h1>
         </header>
+
         <div className="App-content">
           <div className="video">
             <h2 className="video-title">{ this.state.win.title}</h2>
