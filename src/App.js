@@ -35,15 +35,17 @@ class App extends Component {
           <div className="video">
             <h2 className="video-title">{ this.state.win.title}</h2>
             <h3 className="versus">{ this.state.win.victor } VS { this.state.win.defeated }</h3>
-            <iframe width="560"
-                    height="315"
-                    src={this.state.win.video + '&autoplay=1'}
-                    title={this.state.win.title}
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-            >
-            </iframe>
+            <div className="videoWrapper">
+              <iframe width="560"
+                      height="315"
+                      src={this.state.win.video + '&autoplay=1'}
+                      title={this.state.win.title}
+                      frameBorder="0"
+                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+              >
+              </iframe>
+            </div>
           </div>
           <button onClick={this.howDoYouWantToDoThis} className="square">How do you want to do this?</button>
         </div>
