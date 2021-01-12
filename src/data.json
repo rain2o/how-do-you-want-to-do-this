@@ -768,5 +768,42 @@
                 "right": ""
             }
         }
-    ]
+    ],
+    "images": {
+        "Vex’ahlia": {
+            "artwork": "vex.png",
+            "credit": "Kit Buss"
+        },
+        "Vax’ildan": {
+            "artwork": "vax.png",
+            "credit": "Kit Buss"
+        },
+        "Grog": {
+            "artwork": "grog.png",
+            "credit": "Kit Buss"
+        },
+        "Keyleth": {
+            "artwork": "keyleth.png",
+            "credit": "Kit Buss"
+        },
+        "Percy": {
+            "artwork": "percy.png",
+            "credit": "Kit Buss"
+        },
+        "Pike": {
+            "artwork": "pike.png",
+            "credit": "Kit Buss"
+        },
+        "Scanlan": {
+            "artwork": "scanlan.png",
+            "credit": "Kit Buss"
+        },
+        "Tiberius": {
+            "artwork": "tiberius.png",
+            "credit": "Kit Buss"
+        }
+    },
+    "artists": {
+        "Kit Buss": "https://twitter.com/AnemoneTea"
+    }
 }
