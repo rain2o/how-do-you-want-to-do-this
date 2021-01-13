@@ -1,7 +1,13 @@
 import React from 'react';
-import { artists } from '../data.json';
+import { artists, images } from '../data.json';
 
-export default function Artwork({ art, pos }) {
+export default function Artwork({ character, pos }) {
+  const characterArt = images[character] || null
+  if (!characterArt) return (null)
+
+  const index = Math.floor(Math.random() * characterArt.length);
+  const art = characterArt[index]
+
   return (
     <div id={"bg-" + pos} className="artwork">
       <img src={ require(`../artwork/${art.artwork}`) } alt="" />
