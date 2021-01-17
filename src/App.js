@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 import { wins } from './data.json';
 import Artwork from './components/Artwork'
+import useColorScheme from './hooks/useColorScheme'
 
 const randomExcept = (skip) => {
   let random = Math.floor(Math.random() * wins.length);
@@ -10,6 +11,9 @@ const randomExcept = (skip) => {
 }
 
 const App = () => {
+  // handle any dark/light theme changes
+  useColorScheme()
+
   let index = Math.floor(Math.random() * wins.length);
   const [win, setWin] = useState(wins[index]);
   const howDoYouWantToDoThis = () => {
