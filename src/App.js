@@ -27,13 +27,13 @@ const App = () => {
       <Artwork character={win.defeated} pos="right" />
 
       <header className="App-header">
-        <h1><strong>*SPOILERS*</strong> - Campaign {win.campaign} Episode {win.episode}</h1>
+        <h1 className="video-title">{ win.title}</h1>
+        <h2 className="spoilers-title"><strong>*SPOILERS*</strong> - Campaign {win.campaign} Episode {win.episode}</h2>
+        <h3 className="versus">{ win.victor } VS { win.defeated }</h3>
       </header>
 
       <div className="App-content">
         <div className="video">
-          <h2 className="video-title">{ win.title}</h2>
-          <h3 className="versus">{ win.victor } VS { win.defeated }</h3>
           <div className="videoWrapper">
             <iframe width="560"
                     height="315"

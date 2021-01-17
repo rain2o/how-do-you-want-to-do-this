@@ -1,3 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@font-face {
+  font-family: 'EnchantedLand';
+  src: local('EnchantedLand'), url(./fonts/Enchanted-Land.otf) format('truetype');
+}
+
+body, html {
+  font-size: 16px;
+  line-height: 1.5em;
+  font-family: 'Lato', sans-serif;
+}
+h1 {
+  font-size: 3em;
+  font-family: EnchantedLand, serif;
+  letter-spacing: 3px;
+  font-weight: 100;
+  line-height: 1;
+}
+h2 {
+  font-size: 1.8em;
+}
+h3 {
+  font-size: 1.5em;
+}
 .App {
   text-align: center;
   background-color: #282c34;
@@ -22,13 +46,18 @@
 }
 
 .App-header {
-  font-size: calc(10px + 2vmin);
   z-index: 1;
 }
 
 .App-content {
   flex: 1;
   z-index: 1;
+  width: 100%;
+}
+@media (min-width: 820px) {
+  .App-content {
+    width: 800px;
+  }
 }
 
 .App-link {
@@ -49,6 +78,22 @@
 }
 button {
   padding: 20px;
+  font-family: EnchantedLand, serif;
+  cursor: pointer;
+  letter-spacing: 1px;
+  font-size: 1.5em;
+  border: none;
+  border-radius: 5px;
+  background-size: calc(200% + 1px) 100%; 
+  background-image: linear-gradient(to right, #000 50%, #fff 50%),
+                    linear-gradient(to right, #fff 50%, #000 50%);
+  transition: background-position 0.2s linear; 
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box; 
+  color: transparent; 
+}
+button:hover, button:focus {
+  background-position: -100% 0;
 }
 
 .credits {
