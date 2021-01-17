@@ -92,8 +92,11 @@ button {
   background-clip: text, border-box; 
   color: transparent; 
 }
-button:hover, button:focus {
+button:hover {
   background-position: -100% 0;
+}
+button:focus {
+  outline-color: #fff;
 }
 
 .credits {

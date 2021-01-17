@@ -1,9 +1,10 @@
-import React from 'react';
-import { artists, images } from '../data.json';
+import React from 'react'
+import { artists, images } from '../data.json'
+import { Art, Artists, ArtworkProps, Images } from '../types'
 
-export default function Artwork({ character, pos }) {
-  const characterArt = images[character] || null
-  if (!characterArt) return (null)
+export default function Artwork({ character, pos }: ArtworkProps) {
+  const characterArt: Art[] = (images as Images)[character] || []
+  if (!characterArt.length) return (null)
 
   const index = Math.floor(Math.random() * characterArt.length);
   const art = characterArt[index]
@@ -12,7 +13,7 @@ export default function Artwork({ character, pos }) {
     <div id={"bg-" + pos} className="artwork">
       <img src={ require(`../artwork/${art.artwork}`) } alt="" />
       <a className="artwork-credit App-link"
-          href={artists[art.credit]}
+          href={(artists as Artists)[art.credit]}
           target="_blank"
           rel="noopener noreferrer"
       >

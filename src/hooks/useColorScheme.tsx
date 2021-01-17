@@ -6,13 +6,14 @@ import { useEffect } from 'react'
 const useColorScheme = () => {
   useEffect(() => {
     // Handle favicon for dark/light theme
-    const icons = document.head.querySelectorAll('link[rel*="icon"]');
+    const icons: NodeListOf<HTMLLinkElement> = document.head.querySelectorAll('link[rel*="icon"]');
 
     const favicon = document.createElement('link')
     favicon.setAttribute('rel', 'favicon icon')
     document.head.appendChild(favicon)
 
-    let matched, current
+    let matched: HTMLLinkElement = document.createElement('link')
+    let current: string = ''
     icons.forEach(icon => {
       if (window.matchMedia(icon.media).matches) {
         matched = icon
@@ -22,13 +23,16 @@ const useColorScheme = () => {
     })
     if (matched && matched.media !== current) {
       current = matched.media
-      favicon.setAttribute('type', matched.getAttribute('type'))
-      favicon.setAttribute('href', matched.getAttribute('href'))
+      const type = matched.getAttribute('type')
+      const href = matched.getAttribute('href')
+      if (type && href) {
+        favicon.setAttribute('type', type)
+        favicon.setAttribute('href', href)
+      }
     }
 
     // cleanup - add icons back to head
     return () => {
-      console.log('=== cleanup ===')
       icons.forEach(function(icon) {
         document.head.appendChild(icon)
       })

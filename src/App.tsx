@@ -4,7 +4,7 @@ import { wins } from './data.json';
 import Artwork from './components/Artwork'
 import useColorScheme from './hooks/useColorScheme'
 
-const randomExcept = (skip) => {
+const randomExcept = (skip: number): number => {
   let random = Math.floor(Math.random() * wins.length);
   if (random === skip) return randomExcept(skip)
   return random
