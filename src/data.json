@@ -511,6 +511,926 @@
             "title": "Vecna, the Ascended | Critical Role: Vox Machina | Episode 114",
             "victor": "Vox Machina",
             "defeated": "Vecna, the Ascended"
+        },
+        {
+            "campaign": "2",
+            "episode": "1",
+            "video": "https://www.youtube.com/embed/byva0hOj8CU?start=10474",
+            "title": "Curious Beginnings | Critical Role: THE MIGHTY NEIN | Episode 1",
+            "victor": "Beau",
+            "defeated": "Creature 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "3",
+            "video": "https://www.youtube.com/embed/_Ig_s9j4MuU?start=1943",
+            "title": "The Midnight Chase | Critical Role: THE MIGHTY NEIN | Episode 3",
+            "victor": "Nott",
+            "defeated": "Zombie 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "3",
+            "video": "https://www.youtube.com/embed/_Ig_s9j4MuU?start=12457",
+            "title": "The Midnight Chase | Critical Role: THE MIGHTY NEIN | Episode 3",
+            "victor": "Fjord",
+            "defeated": "Kylre"
+        },
+        {
+            "campaign": "2",
+            "episode": "6",
+            "video": "https://www.youtube.com/embed/5DHEj9nY-wo?start=12978",
+            "title": "The Howling Mines | Critical Role: THE MIGHTY NEIN | Episode 6",
+            "victor": "Nott",
+            "defeated": "Gnoll 3"
+        },
+        {
+            "campaign": "2",
+            "episode": "7",
+            "video": "https://www.youtube.com/embed/JAyT10WP-cY?start=8252",
+            "title": "Hush | Critical Role: THE MIGHTY NEIN | Episode 7",
+            "victor": "Nott and Jester",
+            "defeated": "Gnoll Pack Lord"
+        },
+        {
+            "campaign": "2",
+            "episode": "7",
+            "video": "https://www.youtube.com/embed/JAyT10WP-cY?start=13886",
+            "title": "Hush | Critical Role: THE MIGHTY NEIN | Episode 7",
+            "victor": "Caleb",
+            "defeated": "Yeenoghu Priest"
+        },
+        {
+            "campaign": "2",
+            "episode": "7",
+            "video": "https://www.youtube.com/embed/JAyT10WP-cY?start=14172",
+            "title": "Hush | Critical Role: THE MIGHTY NEIN | Episode 7",
+            "victor": "Shakäste",
+            "defeated": "Manticore"
+        },
+        {
+            "campaign": "2",
+            "episode": "10",
+            "video": "https://www.youtube.com/embed/R0rx28wgA4E?start=4466",
+            "title": "Waste and Webs | Critical Role: THE MIGHTY NEIN | Episode 10",
+            "victor": "Nott",
+            "defeated": "Rat 5"
+        },
+        {
+            "campaign": "2",
+            "episode": "10",
+            "video": "https://www.youtube.com/embed/R0rx28wgA4E?start=9703",
+            "title": "Waste and Webs | Critical Role: THE MIGHTY NEIN | Episode 10",
+            "victor": "Molly",
+            "defeated": "Phase Spider"
+        },
+        {
+            "campaign": "2",
+            "episode": "13",
+            "video": "https://www.youtube.com/embed/3GNcQ1Abnek?start=2159",
+            "title": "Lost & Found | Critical Role | Campaign 2, Episode 13",
+            "victor": "Molly",
+            "defeated": "Assassin"
+        },
+        {
+            "campaign": "2",
+            "episode": "15",
+            "video": "https://www.youtube.com/embed/0ZLwaSShk8M?start=10885",
+            "title": "Where the River Goes | Critical Role | Campaign 2, Episode 15",
+            "victor": "Yasha",
+            "defeated": "Gelatinous Cube"
+        },
+        {
+            "campaign": "2",
+            "episode": "16",
+            "video": "https://www.youtube.com/embed/lT-wFK4SgJc?start=2997",
+            "title": "A Favor in Kind | Critical Role | Campaign 2, Episode 16",
+            "victor": "Molly",
+            "defeated": "Siff Duthar"
+        },
+        {
+            "campaign": "2",
+            "episode": "17",
+            "video": "https://www.youtube.com/embed/RNOyGusWh3s?start=11607",
+            "title": "Harvest Close | Critical Role | Campaign 2, Episode 17",
+            "victor": "Yasha",
+            "defeated": "Otyugh"
+        },
+        {
+            "campaign": "2",
+            "episode": "17",
+            "video": "https://www.youtube.com/embed/RNOyGusWh3s?start=13454",
+            "title": "Harvest Close | Critical Role | Campaign 2, Episode 17",
+            "victor": "Yasha",
+            "defeated": "Wolf 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "17",
+            "video": "https://www.youtube.com/embed/RNOyGusWh3s?start=13896",
+            "title": "Harvest Close | Critical Role | Campaign 2, Episode 17",
+            "victor": "Molly",
+            "defeated": "Wolf 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "18",
+            "video": "https://www.youtube.com/embed/4C-frHrNWjY?start=3084",
+            "title": "Whispers of War | Critical Role | Campaign 2, Episode 18",
+            "victor": "Nott",
+            "defeated": "Hill Giant"
+        },
+        {
+            "campaign": "2",
+            "episode": "19",
+            "video": "https://www.youtube.com/embed/w6jE3T_ooKw?start=11061",
+            "title": "The Gentleman's Path | Critical Role | Campaign 2, Episode 19",
+            "victor": "Yasha",
+            "defeated": "Ogre 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "19",
+            "video": "https://www.youtube.com/embed/w6jE3T_ooKw?start=11592",
+            "title": "The Gentleman's Path | Critical Role | Campaign 2, Episode 19",
+            "victor": "Fjord",
+            "defeated": "Ogre 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "20",
+            "video": "https://www.youtube.com/embed/jyCoCqhsFp4?start=7231",
+            "title": "Labenda Awaits | Critical Role | Campaign 2, Episode 20",
+            "victor": "Yasha",
+            "defeated": "Gator 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "20",
+            "video": "https://www.youtube.com/embed/jyCoCqhsFp4?start=7927",
+            "title": "Labenda Awaits | Critical Role | Campaign 2, Episode 20",
+            "victor": "Fjord",
+            "defeated": "Gator 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "21",
+            "video": "https://www.youtube.com/embed/YTARojk9tBY?start=13179",
+            "title": "Stalker in the Swamp | Critical Role | Campaign 2, Episode 21",
+            "victor": "Fjord",
+            "defeated": "Merrow 4"
+        },
+        {
+            "campaign": "2",
+            "episode": "22",
+            "video": "https://www.youtube.com/embed/aQxpxWz38P8?start=4789",
+            "title": "Lost Treasures | Critical Role | Campaign 2, Episode 22",
+            "victor": "Jester",
+            "defeated": "Merrow 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "22",
+            "video": "https://www.youtube.com/embed/aQxpxWz38P8?start=5765",
+            "title": "Lost Treasures | Critical Role | Campaign 2, Episode 22",
+            "victor": "Molly",
+            "defeated": "Merrow 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "22",
+            "video": "https://www.youtube.com/embed/aQxpxWz38P8?start=5955",
+            "title": "Lost Treasures | Critical Role | Campaign 2, Episode 22",
+            "victor": "Fjord",
+            "defeated": "Merrow 4"
+        },
+        {
+            "campaign": "2",
+            "episode": "22",
+            "video": "https://www.youtube.com/embed/aQxpxWz38P8?start=6083",
+            "title": "Lost Treasures | Critical Role | Campaign 2, Episode 22",
+            "victor": "Yasha",
+            "defeated": "Merrow 3"
+        },
+        {
+            "campaign": "2",
+            "episode": "22",
+            "video": "https://www.youtube.com/embed/aQxpxWz38P8?start=6888",
+            "title": "Lost Treasures | Critical Role | Campaign 2, Episode 22",
+            "victor": "Fjord",
+            "defeated": "Merrow 5"
+        },
+        {
+            "campaign": "2",
+            "episode": "22",
+            "video": "https://www.youtube.com/embed/aQxpxWz38P8?start=7323",
+            "title": "Lost Treasures | Critical Role | Campaign 2, Episode 22",
+            "victor": "Beau",
+            "defeated": "Merrow 6"
+        },
+        {
+            "campaign": "2",
+            "episode": "22",
+            "video": "https://www.youtube.com/embed/aQxpxWz38P8?start=8477",
+            "title": "Lost Treasures | Critical Role | Campaign 2, Episode 22",
+            "victor": "Jester and Yasha",
+            "defeated": "Merrow Shallowpriest"
+        },
+        {
+            "campaign": "2",
+            "episode": "23",
+            "video": "https://www.youtube.com/embed/xr1dOEL2EHQ?start=3534",
+            "title": "Have Bird, Will Travel | Critical Role | Campaign 2 Episode 23",
+            "victor": "Molly",
+            "defeated": "Venom Troll"
+        },
+        {
+            "campaign": "2",
+            "episode": "23",
+            "video": "https://www.youtube.com/embed/xr1dOEL2EHQ?start=4104",
+            "title": "Have Bird, Will Travel | Critical Role | Campaign 2 Episode 23",
+            "victor": "Caleb",
+            "defeated": "Venom Troll"
+        },
+        {
+            "campaign": "2",
+            "episode": "25",
+            "video": "https://www.youtube.com/embed/CoomA-qeJMI?start=9522",
+            "title": "Divergent Paths | Critical Role | Campaign 2, Episode 25",
+            "victor": "Molly",
+            "defeated": "Gear Keeper"
+        },
+        {
+            "campaign": "2",
+            "episode": "26",
+            "video": "https://www.youtube.com/embed/NZVqPja6Alg?start=5560",
+            "title": "Found & Lost | Critical Role | Campaign 2, Episode 26",
+            "victor": "Beau",
+            "defeated": "Ankheg"
+        },
+        {
+            "campaign": "2",
+            "episode": "28",
+            "video": "https://www.youtube.com/embed/_jDCU8IRyfA?start=11707",
+            "title": "Within the Nest | Critical Role | Campaign 2, Episode 28",
+            "victor": "Caleb",
+            "defeated": "Wohn"
+        },
+        {
+            "campaign": "2",
+            "episode": "29",
+            "video": "https://www.youtube.com/embed/L3vV7ZdE_w8?start=13013",
+            "title": "The Stalking Nightmare | Critical Role | Campaign 2, Episode 29 - Live from Indianapolis!",
+            "victor": "Caleb",
+            "defeated": "Lorenzo"
+        },
+        {
+            "campaign": "2",
+            "episode": "32",
+            "video": "https://www.youtube.com/embed/aRQr1QMNHsQ?start=10226",
+            "title": "Beyond the Boundaries | Critical Role | Campaign 2, Episode 32",
+            "victor": "Beau",
+            "defeated": "Ettin 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "32",
+            "video": "https://www.youtube.com/embed/aRQr1QMNHsQ?start=10801",
+            "title": "Beyond the Boundaries | Critical Role | Campaign 2, Episode 32",
+            "victor": "Caleb",
+            "defeated": "Ettin 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "38",
+            "video": "https://www.youtube.com/embed/GOsCZ8kQom0?start=6027",
+            "title": "Welcome to the Jungle | Critical Role | Campaign 2, Episode 38",
+            "victor": "Yasha",
+            "defeated": "Kamadan"
+        },
+        {
+            "campaign": "2",
+            "episode": "38",
+            "video": "https://www.youtube.com/embed/GOsCZ8kQom0?start=6233",
+            "title": "Welcome to the Jungle | Critical Role | Campaign 2, Episode 38",
+            "victor": "Nott and Fjord",
+            "defeated": "Kamadan"
+        },
+        {
+            "campaign": "2",
+            "episode": "39",
+            "video": "https://www.youtube.com/embed/M6XpCPfDP8M?start=2392",
+            "title": "Temple of the False Serpent | Critical Role| Campaign 2, Episode 39",
+            "victor": "Yasha",
+            "defeated": "Yuan-Ti Mind Whisperer"
+        },
+        {
+            "campaign": "2",
+            "episode": "39",
+            "video": "https://www.youtube.com/embed/M6XpCPfDP8M?start=7616",
+            "title": "Temple of the False Serpent | Critical Role| Campaign 2, Episode 39",
+            "victor": "Jester",
+            "defeated": "Vine 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "39",
+            "video": "https://www.youtube.com/embed/M6XpCPfDP8M?start=14616",
+            "title": "Temple of the False Serpent | Critical Role| Campaign 2, Episode 39",
+            "victor": "Yasha",
+            "defeated": "Hydra"
+        },
+        {
+            "campaign": "2",
+            "episode": "40",
+            "video": "https://www.youtube.com/embed/etjou2cxZJw?start=4953",
+            "title": "Dubious Pursuits | Critical Role| Campaign 2, Episode 40",
+            "victor": "Nott",
+            "defeated": "Yuan-Ti Pit Master"
+        },
+        {
+            "campaign": "2",
+            "episode": "44",
+            "video": "https://www.youtube.com/embed/P8UVu-kGusg?start=4938",
+            "title": "The Diver's Grave | Critical Role | Campaign 2, Episode 44",
+            "victor": "Caleb",
+            "defeated": "Merrow Shallow Priest"
+        },
+        {
+            "campaign": "2",
+            "episode": "45",
+            "video": "https://www.youtube.com/embed/ujWYp5Wr64U?start=9959",
+            "title": "The Stowaway | Critical Role | Campaign 2, Episode 45",
+            "victor": "Nott",
+            "defeated": "Cabinet Mimic"
+        },
+        {
+            "campaign": "2",
+            "episode": "45",
+            "video": "https://www.youtube.com/embed/ujWYp5Wr64U?start=16168",
+            "title": "The Stowaway | Critical Role | Campaign 2, Episode 45",
+            "victor": "Twiggy",
+            "defeated": "Young Blue Dragon"
+        },
+        {
+            "campaign": "2",
+            "episode": "47",
+            "video": "https://www.youtube.com/embed/pj3CeW_a1hQ?start=3715",
+            "title": "The Second Seal | Critical Role | Campaign 2, Episode 47",
+            "victor": "Yasha",
+            "defeated": "Chuul 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "47",
+            "video": "https://www.youtube.com/embed/pj3CeW_a1hQ?start=4100",
+            "title": "The Second Seal | Critical Role | Campaign 2, Episode 47",
+            "victor": "Nott",
+            "defeated": "Chuul 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "47",
+            "video": "https://www.youtube.com/embed/pj3CeW_a1hQ?start=4380",
+            "title": "The Second Seal | Critical Role | Campaign 2, Episode 47",
+            "victor": "Jester",
+            "defeated": "Chuul 4"
+        },
+        {
+            "campaign": "2",
+            "episode": "47",
+            "video": "https://www.youtube.com/embed/pj3CeW_a1hQ?start=4945",
+            "title": "The Second Seal | Critical Role | Campaign 2, Episode 47",
+            "victor": "Nott",
+            "defeated": "Chuul 3"
+        },
+        {
+            "campaign": "2",
+            "episode": "50",
+            "video": "https://www.youtube.com/embed/eRFetHZDSg4?start=4728",
+            "title": "The Endless Burrows | Critical Role | Campaign 2, Episode 50",
+            "victor": "Fjord",
+            "defeated": "Roper 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "50",
+            "video": "https://www.youtube.com/embed/eRFetHZDSg4?start=5180",
+            "title": "The Endless Burrows | Critical Role | Campaign 2, Episode 50",
+            "victor": "Mighty Nein",
+            "defeated": "Roper 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "52",
+            "video": "https://www.youtube.com/embed/REyVoebe06E?start=11253",
+            "title": "Feral Business | Critical Role | Campaign 2, Episode 52",
+            "victor": "Jester",
+            "defeated": "Shoosuva 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "52",
+            "video": "https://www.youtube.com/embed/REyVoebe06E?start=11549",
+            "title": "Feral Business | Critical Role | Campaign 2, Episode 52",
+            "victor": "Beau",
+            "defeated": "Rat Swarm"
+        },
+        {
+            "campaign": "2",
+            "episode": "55",
+            "video": "https://www.youtube.com/embed/k1PRExWXj8o?start=9139",
+            "title": "Duplicity | Critical Role | Campaign 2, Episode 55",
+            "victor": "Nott",
+            "defeated": "Succubus"
+        },
+        {
+            "campaign": "2",
+            "episode": "55",
+            "video": "https://www.youtube.com/embed/k1PRExWXj8o?start=14018",
+            "title": "Duplicity | Critical Role | Campaign 2, Episode 55",
+            "victor": "Beau",
+            "defeated": "Fiendish Minotaur"
+        },
+        {
+            "campaign": "2",
+            "episode": "55",
+            "video": "https://www.youtube.com/embed/k1PRExWXj8o?start=14607",
+            "title": "Duplicity | Critical Role | Campaign 2, Episode 55",
+            "victor": "Nott",
+            "defeated": "Incubus"
+        },
+        {
+            "campaign": "2",
+            "episode": "60",
+            "video": "https://www.youtube.com/embed/yJgaEh_GZ6M?start=2204",
+            "title": "A Turtle By Any Other Name | Critical Role | Campaign 2, Episode 60",
+            "victor": "Yasha",
+            "defeated": "Dybbuk 1-as-stone giant"
+        },
+        {
+            "campaign": "2",
+            "episode": "60",
+            "video": "https://www.youtube.com/embed/yJgaEh_GZ6M?start=6015",
+            "title": "A Turtle By Any Other Name | Critical Role | Campaign 2, Episode 60",
+            "victor": "Beau",
+            "defeated": "Dybbuk 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "60",
+            "video": "https://www.youtube.com/embed/yJgaEh_GZ6M?start=10448",
+            "title": "A Turtle By Any Other Name | Critical Role | Campaign 2, Episode 60",
+            "victor": "Caleb",
+            "defeated": "Dybbuk 1-as-stone giant"
+        },
+        {
+            "campaign": "2",
+            "episode": "60",
+            "video": "https://www.youtube.com/embed/yJgaEh_GZ6M?start=10570",
+            "title": "A Turtle By Any Other Name | Critical Role | Campaign 2, Episode 60",
+            "victor": "Fjord",
+            "defeated": "Dybbuk 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "63",
+            "video": "https://www.youtube.com/embed/CQWv6zQZTGo?start=9746",
+            "title": "Intervention | Critical Role | Campaign 2, Episode 63",
+            "victor": "Caleb",
+            "defeated": "Horse"
+        },
+        {
+            "campaign": "2",
+            "episode": "63",
+            "video": "https://www.youtube.com/embed/CQWv6zQZTGo?start=12860",
+            "title": "Intervention | Critical Role | Campaign 2, Episode 63",
+            "victor": "Caduceus",
+            "defeated": "Hobgoblin"
+        },
+        {
+            "campaign": "2",
+            "episode": "64",
+            "video": "https://www.youtube.com/embed/3yfLht7w7Yk?start=8528",
+            "title": "A Dangerous Chase | Critical Role | Campaign 2, Episode 64",
+            "victor": "Beau",
+            "defeated": "The Lost 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "64",
+            "video": "https://www.youtube.com/embed/3yfLht7w7Yk?start=8838",
+            "title": "A Dangerous Chase | Critical Role | Campaign 2, Episode 64",
+            "victor": "Jester",
+            "defeated": "The Lost 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "64",
+            "video": "https://www.youtube.com/embed/3yfLht7w7Yk?start=9863",
+            "title": "A Dangerous Chase | Critical Role | Campaign 2, Episode 64",
+            "victor": "Beau",
+            "defeated": "The Lost 3"
+        },
+        {
+            "campaign": "2",
+            "episode": "64",
+            "video": "https://www.youtube.com/embed/3yfLht7w7Yk?start=10212",
+            "title": "A Dangerous Chase | Critical Role | Campaign 2, Episode 64",
+            "victor": "Jester",
+            "defeated": "The Lost 4"
+        },
+        {
+            "campaign": "2",
+            "episode": "64",
+            "video": "https://www.youtube.com/embed/3yfLht7w7Yk?start=10277",
+            "title": "A Dangerous Chase | Critical Role | Campaign 2, Episode 64",
+            "victor": "Fjord",
+            "defeated": "Swarm of Bats"
+        },
+        {
+            "campaign": "2",
+            "episode": "65",
+            "video": "https://www.youtube.com/embed/HNODkS9gZmM?start=5378",
+            "title": "Chases and Trees | Critical Role | Campaign 2, Episode 65",
+            "victor": "Caduceus",
+            "defeated": "Gloomstalker 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "65",
+            "video": "https://www.youtube.com/embed/HNODkS9gZmM?start=5565",
+            "title": "Chases and Trees | Critical Role | Campaign 2, Episode 65",
+            "victor": "Nott",
+            "defeated": "Gloomstalker 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "65",
+            "video": "https://www.youtube.com/embed/HNODkS9gZmM?start=5719",
+            "title": "Chases and Trees | Critical Role | Campaign 2, Episode 65",
+            "victor": "Caduceus",
+            "defeated": "Gloomstalker 3"
+        },
+        {
+            "campaign": "2",
+            "episode": "67",
+            "video": "https://www.youtube.com/embed/hdtabnXnckw?start=2973",
+            "title": "Beyond the Eyes of Angels | Critical Role | Campaign 2, Episode 67",
+            "victor": "Nott",
+            "defeated": "Mama Giant Spider"
+        },
+        {
+            "campaign": "2",
+            "episode": "68",
+            "video": "https://www.youtube.com/embed/5GAclNF61Xs?start=11160",
+            "title": "Reflections | Critical Role | Campaign 2, Episode 68",
+            "victor": "Yasha",
+            "defeated": "Doppelganger Yasha"
+        },
+        {
+            "campaign": "2",
+            "episode": "68",
+            "video": "https://www.youtube.com/embed/5GAclNF61Xs?start=12606",
+            "title": "Reflections | Critical Role | Campaign 2, Episode 68",
+            "victor": "Caduceus",
+            "defeated": "Doppelganger Caduceus"
+        },
+        {
+            "campaign": "2",
+            "episode": "69",
+            "video": "https://www.youtube.com/embed/Sj5wImPuG-k?start=9964",
+            "title": "The King's Cage | Critical Role | Campaign 2, Episode 69",
+            "victor": "Fjord",
+            "defeated": "Obann"
+        },
+        {
+            "campaign": "2",
+            "episode": "73",
+            "video": "https://www.youtube.com/embed/M5lRGaV-xQk?start=4279",
+            "title": "Uthodurn | Critical Role | Campaign 2, Episode 73 - Live From Indianapolis!",
+            "victor": "Jester",
+            "defeated": "Young Remorhaz"
+        },
+        {
+            "campaign": "2",
+            "episode": "73",
+            "video": "https://www.youtube.com/embed/M5lRGaV-xQk?start=6211",
+            "title": "Uthodurn | Critical Role | Campaign 2, Episode 73 - Live From Indianapolis!",
+            "victor": "Jester",
+            "defeated": "Remorhaz"
+        },
+        {
+            "campaign": "2",
+            "episode": "75",
+            "video": "https://www.youtube.com/embed/Z1pJ0essryI?start=6091",
+            "title": "Rime and Reason | Critical Role | Campaign 2, Episode 75",
+            "victor": "Caduceus",
+            "defeated": "Yeti 4"
+        },
+        {
+            "campaign": "2",
+            "episode": "80",
+            "video": "https://www.youtube.com/embed/aHKloZn2rII?start=10824",
+            "title": "The Folding Halls | Critical Role | Campaign 2, Episode 80",
+            "victor": "Jester",
+            "defeated": "Froghemoth"
+        },
+        {
+            "campaign": "2",
+            "episode": "81",
+            "video": "https://www.youtube.com/embed/XPu0ANzvQdQ?start=8711",
+            "title": "From Door to Door | Critical Role | Campaign 2, Episode 81",
+            "victor": "Nott",
+            "defeated": "Golem"
+        },
+        {
+            "campaign": "2",
+            "episode": "82",
+            "video": "https://www.youtube.com/embed/2Jv3OPxR7F8?start=3298",
+            "title": "The Beat of the Permaheart | Critical Role | Campaign 2, Episode 82",
+            "victor": "Jester",
+            "defeated": "Halas Clone"
+        },
+        {
+            "campaign": "2",
+            "episode": "82",
+            "video": "https://www.youtube.com/embed/2Jv3OPxR7F8?start=3535",
+            "title": "The Beat of the Permaheart | Critical Role | Campaign 2, Episode 82",
+            "victor": "Jester",
+            "defeated": "Halas Clone"
+        },
+        {
+            "campaign": "2",
+            "episode": "82",
+            "video": "https://www.youtube.com/embed/2Jv3OPxR7F8?start=3823",
+            "title": "The Beat of the Permaheart | Critical Role | Campaign 2, Episode 82",
+            "victor": "Jester",
+            "defeated": "Halas Clone"
+        },
+        {
+            "campaign": "2",
+            "episode": "82",
+            "video": "https://www.youtube.com/embed/2Jv3OPxR7F8?start=4035",
+            "title": "The Beat of the Permaheart | Critical Role | Campaign 2, Episode 82",
+            "victor": "Fjord",
+            "defeated": "Halas Clone"
+        },
+        {
+            "campaign": "2",
+            "episode": "82",
+            "video": "https://www.youtube.com/embed/2Jv3OPxR7F8?start=12770",
+            "title": "The Beat of the Permaheart | Critical Role | Campaign 2, Episode 82",
+            "victor": "Beau",
+            "defeated": "Permaheart"
+        },
+        {
+            "campaign": "2",
+            "episode": "86",
+            "video": "https://www.youtube.com/embed/Wao4L1Mfam4?start=4983",
+            "title": "The Cathedral | Critical Role | Campaign 2, Episode 86",
+            "victor": "Nott",
+            "defeated": "Cardinal Respa"
+        },
+        {
+            "campaign": "2",
+            "episode": "86",
+            "video": "https://www.youtube.com/embed/Wao4L1Mfam4?start=9360",
+            "title": "The Cathedral | Critical Role | Campaign 2, Episode 86",
+            "victor": "Caleb",
+            "defeated": "Laughing Hand"
+        },
+        {
+            "campaign": "2",
+            "episode": "86",
+            "video": "https://www.youtube.com/embed/Wao4L1Mfam4?start=17819",
+            "title": "The Cathedral | Critical Role | Campaign 2, Episode 86",
+            "victor": "Yasha",
+            "defeated": "Obann"
+        },
+        {
+            "campaign": "2",
+            "episode": "87",
+            "video": "https://www.youtube.com/embed/3RnC_HS2Ck4?start=4695",
+            "title": "Punishment and Politics | Critical Role | Campaign 2, Episode 87",
+            "victor": "Caedogeist",
+            "defeated": "Obann the Punished"
+        },
+        {
+            "campaign": "2",
+            "episode": "89",
+            "video": "https://www.youtube.com/embed/KrZps9j2bl4?start=12173",
+            "title": "Lingering Wounds | Critical Role | Campaign 2, Episode 89",
+            "victor": "Beauregard",
+            "defeated": "Ovo"
+        },
+        {
+            "campaign": "2",
+            "episode": "93",
+            "video": "https://www.youtube.com/embed/PJawve2RxNM?start=5897",
+            "title": "Misery Loves Company | Critical Role | Campaign 2, Episode 93",
+            "victor": "Nott",
+            "defeated": "Gorefeather Harpy Matron"
+        },
+        {
+            "campaign": "2",
+            "episode": "95",
+            "video": "https://www.youtube.com/embed/1Db5CorBfz4?start=11696",
+            "title": "Blessing In Disguise | Critical Role | Campaign 2, Episode 95",
+            "victor": "Beau",
+            "defeated": "Silverfish"
+        },
+        {
+            "campaign": "2",
+            "episode": "96",
+            "video": "https://www.youtube.com/embed/Tmz4TS3Div8?start=5199",
+            "title": "Family Shatters | Critical Role | Campaign 2, Episode 96",
+            "victor": "Caleb",
+            "defeated": "Gorgon"
+        },
+        {
+            "campaign": "2",
+            "episode": "98",
+            "video": "https://www.youtube.com/embed/4OH5Sa8x_Cw?start=18039",
+            "title": "Dark Waters | Critical Role | Campaign 2, Episode 98",
+            "victor": "Yasha",
+            "defeated": "Deep Scion Warlock"
+        },
+        {
+            "campaign": "2",
+            "episode": "98",
+            "video": "https://www.youtube.com/embed/4OH5Sa8x_Cw?start=18268",
+            "title": "Dark Waters | Critical Role | Campaign 2, Episode 98",
+            "victor": "Caleb",
+            "defeated": "Deep Scion"
+        },
+        {
+            "campaign": "2",
+            "episode": "102",
+            "video": "https://www.youtube.com/embed/hKlo5FWlxnA?start=2920",
+            "title": "Ghosts, Dinosaurs, and Stuff | Critical Role | Campaign 2, Episode 102",
+            "victor": "Fjord",
+            "defeated": "Bodak"
+        },
+        {
+            "campaign": "2",
+            "episode": "104",
+            "video": "https://www.youtube.com/embed/ni3aw71y7LI?start=9906",
+            "title": "The Ruined Sliver | Critical Role | Campaign 2, Episode 104",
+            "victor": "Fjord",
+            "defeated": "Lord Cioro (Miskath Wraith)"
+        },
+        {
+            "campaign": "2",
+            "episode": "105",
+            "video": "https://www.youtube.com/embed/ItgpnsJS2pE?start=16501",
+            "title": "Rumble at Rumblecusp | Critical Role | Campaign 2, Episode 105",
+            "victor": "Caleb",
+            "defeated": "Vokodo"
+        },
+        {
+            "campaign": "2",
+            "episode": "106",
+            "video": "https://www.youtube.com/embed/PWMlvpyFm-E?start=2743",
+            "title": "A Fog Lifted | Critical Role | Campaign 2, Episode 106",
+            "victor": "Caleb",
+            "defeated": "Aquatic Fire Snake"
+        },
+        {
+            "campaign": "2",
+            "episode": "107",
+            "video": "https://www.youtube.com/embed/dd8jt0jfeww?start=10482",
+            "title": "Devoutness and Dicks | Critical Role | Campaign 2, Episode 107",
+            "victor": "Fjord",
+            "defeated": "T-Rex"
+        },
+        {
+            "campaign": "2",
+            "episode": "113",
+            "video": "https://www.youtube.com/embed/0HncegOZtNQ?start=11720",
+            "title": "A Heart Grown Cold | Critical Role | Campaign 2, Episode 113",
+            "victor": "Fjord",
+            "defeated": "Avantika"
+        },
+        {
+            "campaign": "2",
+            "episode": "119",
+            "video": "https://www.youtube.com/embed/xAQy-ompDc4?start=5824",
+            "title": "Malice and Mystery Below | Critical Role | Campaign 2, Episode 119",
+            "victor": "Caduceus",
+            "defeated": "Aeorian abomination"
+        },
+        {
+            "campaign": "2",
+            "episode": "120",
+            "video": "https://www.youtube.com/embed/EDudet-qZIg?start=6234",
+            "title": "Contentious Company | Critical Role | Campaign 2, Episode 120",
+            "victor": "Caleb",
+            "defeated": "Automaton"
+        },
+        {
+            "campaign": "2",
+            "episode": "129",
+            "video": "https://www.youtube.com/embed/6nR3FGyyG4I?start=8190",
+            "title": "Between a Ball and a Hot Place | Critical Role | Campaign 2, Episode 129",
+            "victor": "Caduceus",
+            "defeated": "Guardian of the Sanctum 3"
+        },
+        {
+            "campaign": "2",
+            "episode": "132",
+            "video": "https://www.youtube.com/embed/z_QadZ8S9rU?start=5174",
+            "title": "Aeor | Critical Role | Campaign 2, Episode 132",
+            "victor": "Yasha",
+            "defeated": "Zombie Frost Giant 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "132",
+            "video": "https://www.youtube.com/embed/z_QadZ8S9rU?start=5660",
+            "title": "Aeor | Critical Role | Campaign 2, Episode 132",
+            "victor": "Beau",
+            "defeated": "Zombie Frost Giant 3"
+        },
+        {
+            "campaign": "2",
+            "episode": "133",
+            "video": "https://www.youtube.com/embed/6hB73g8SF_k?start=1965",
+            "title": "Hunter and Hunted | Critical Role | Campaign 2, Episode 133",
+            "victor": "Yasha",
+            "defeated": "Frost Salamander 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "133",
+            "video": "https://www.youtube.com/embed/6hB73g8SF_k?start=3035",
+            "title": "Hunter and Hunted | Critical Role | Campaign 2, Episode 133",
+            "victor": "Fjord",
+            "defeated": "Frost Salamander 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "133",
+            "video": "https://www.youtube.com/embed/6hB73g8SF_k?start=15038",
+            "title": "Hunter and Hunted | Critical Role | Campaign 2, Episode 133",
+            "victor": "Fjord",
+            "defeated": "Zoran"
+        },
+        {
+            "campaign": "2",
+            "episode": "134",
+            "video": "https://www.youtube.com/embed/vTwG0Tfvkbo?start=11494",
+            "title": "The Streets of the Forgotten | Critical Role | Campaign 2, Episode 134",
+            "victor": "Beau",
+            "defeated": "Aeorian Absorber 1"
+        },
+        {
+            "campaign": "2",
+            "episode": "134",
+            "video": "https://www.youtube.com/embed/vTwG0Tfvkbo?start=12542",
+            "title": "The Streets of the Forgotten | Critical Role | Campaign 2, Episode 134",
+            "victor": "Veth",
+            "defeated": "Aeorian Reverser"
+        },
+        {
+            "campaign": "2",
+            "episode": "134",
+            "video": "https://www.youtube.com/embed/vTwG0Tfvkbo?start=13480",
+            "title": "The Streets of the Forgotten | Critical Role | Campaign 2, Episode 134",
+            "victor": "Jester",
+            "defeated": "Aeorian Absorber 2"
+        },
+        {
+            "campaign": "2",
+            "episode": "135",
+            "video": "https://www.youtube.com/embed/As-CPD7Z5As?start=12993",
+            "title": "The Genesis Ward | Critical Role | Campaign 2, Episode 135",
+            "victor": "Fjord",
+            "defeated": "Aeorian Nullifier"
+        },
+        {
+            "campaign": "2",
+            "episode": "137",
+            "video": "https://www.youtube.com/embed/l_loCAlJIVs?start=8702",
+            "title": "Welcome to Cognouza | Critical Role | Campaign 2, Episode 137",
+            "victor": "Caleb",
+            "defeated": "Cognouza Flesh Horror"
+        },
+        {
+            "campaign": "2",
+            "episode": "138",
+            "video": "https://www.youtube.com/embed/abczYOn1lIQ?start=4029",
+            "title": "Where There Is A Will... | Critical Role | Campaign 2, Episode 138",
+            "victor": "Veth",
+            "defeated": "Cree, Vessel of the Pattern"
+        },
+        {
+            "campaign": "2",
+            "episode": "140",
+            "video": "https://www.youtube.com/embed/W5O0bbA7Pn8?start=12251",
+            "title": "Long May He Reign | Critical Role | Campaign 2, Episode 140",
+            "victor": "Jester",
+            "defeated": "Lucien, Cognouza Incarnate"
         }
     ],
     "images": {
