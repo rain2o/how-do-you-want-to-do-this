@@ -1,8 +1,12 @@
+import React from 'react';
 import { artists, images } from '../data.json'
 import { Art, Artists, ArtworkProps, Images } from '../types'
 
 export default function Artwork({ character, pos }: ArtworkProps) {
-  const characterArt: Art[] = (images as Images)[character] || []
+  // force correct types
+  const characterImages: Images = images;
+  const artistsObj: Artists = artists;
+  const characterArt: Art[] = characterImages[character] || []
   if (!characterArt.length) return (null)
 
   const index = Math.floor(Math.random() * characterArt.length);
@@ -13,7 +17,7 @@ export default function Artwork({ character, pos }: ArtworkProps) {
     <div id={"bg-" + pos} className="artwork">
       <img src={ media.default } alt={ character } />
       <a className="artwork-credit App-link"
-          href={(artists as Artists)[art.credit]}
+          href={artistsObj[art.credit]}
           target="_blank"
           rel="noopener noreferrer"
       >
