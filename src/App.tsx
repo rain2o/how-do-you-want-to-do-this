@@ -56,7 +56,9 @@ const App = () => {
           </div>
         </div>
         <button onClick={howDoYouWantToDoThis} className="square">
-          How do you want to do this?
+          <span>How do you want to do this?</span>
+          <span className="border--top-bottom"></span>
+          <span className="border--left-right"></span>
         </button>
       </div>
       <footer className="App-footer">

@@ -82,21 +82,65 @@ button {
   cursor: pointer;
   letter-spacing: 1px;
   font-size: 1.5em;
+  text-align: center;
+  background: #fff;
+  position: relative;
   border: none;
-  border-radius: 5px;
-  background-size: calc(200% + 1px) 100%; 
-  background-image: linear-gradient(to right, #000 50%, #fff 50%),
-                    linear-gradient(to right, #fff 50%, #000 50%);
-  transition: background-position 0.2s linear; 
-  -webkit-background-clip: text, border-box;
-  background-clip: text, border-box; 
-  color: transparent; 
 }
-button:hover {
-  background-position: -100% 0;
+.border--top-bottom:before {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 3px;
+  top: -6px;
+  left: -7px;
+  background: #fff;
+  transition: all 0.5s ease;
 }
-button:focus {
-  outline-color: #fff;
+
+.border--top-bottom:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 3px;
+  bottom: -6px;
+  right: -7px;
+  background: #fff;
+  transition: all 0.5s ease;
+}
+
+.border--left-right:before {
+  content: "";
+  position: absolute;
+  top: -4px;
+  left: -7px;
+  width: 3px;
+  height: 25px;
+  background: #fff;
+  transition: all 0.5s ease;
+}
+
+.border--left-right:after {
+  content: "";
+  position: absolute;
+  bottom: -4px;
+  right: -7px;
+  width: 3px;
+  height: 25px;
+  background: #fff;
+  transition: all 0.5s ease;
+}
+
+button:hover .border--top-bottom:before,
+button:hover .border--top-bottom:after {
+  width: calc(100% + 10px);
+  transition: all 0.5s ease;
+}
+
+button:hover .border--left-right:before,
+button:hover .border--left-right:after {
+  height: calc(100% + 10px);
+  transition: all 0.5s ease;
 }
 
 .credits {
