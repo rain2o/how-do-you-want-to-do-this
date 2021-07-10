@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <!-- <link rel="icon" href="%PUBLIC_URL%/Critical_Role_Logo.png" /> -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" media="(prefers-color-scheme:dark)" href="%PUBLIC_URL%/CriticalRole_Logo_White.png" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="%PUBLIC_URL%/Critical_Role_Logo.png" type="image/png" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -17,16 +17,23 @@
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
-
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
     <title>How do you want to do this?</title>
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="%PUBLIC_URL%/HDYWTDT-1200x628.jpeg" />
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="628">
+    <meta property="og:title" content="How do you want to do this?" />
+    <meta property="og:description" content='Watch a random "How do you want to do this?" moment from Critical Role.' />
+    <meta property="og:url" content="%PUBLIC_URL%" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="%PUBLIC_URL%" />
+    <meta name="twitter:title" content="How do you want to do this?" />
+    <meta name="twitter:description" content='Watch a random "How do you want to do this?" moment from Critical Role.' />
+    <meta name="twitter:image" content="%PUBLIC_URL%/HDYWTDT-1200x628.jpeg" />
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>

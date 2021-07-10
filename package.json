@@ -1,5 +1,6 @@
 {
   "name": "how-do-you-want-to-do-this",
+  "homepage": "https://howdoyouwanttodothis.tube",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,6 +21,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "serve": "serve -s build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
