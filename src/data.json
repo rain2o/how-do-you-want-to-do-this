@@ -1,4 +1,14 @@
 {
+    "campaigns": [
+        {
+            "label": "C1",
+            "key": "1"
+        },
+        {
+            "label": "C2",
+            "key": "2"
+        }
+    ],
     "wins": [
         {
             "campaign": "1",

@@ -30,3 +30,8 @@ export type SiteData = {
   images: Images,
   artists: Artists
 }
+
+export type RandomWinsParams = {
+  skip?: Win,
+  spoilers?: String[]
+}
