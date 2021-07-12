@@ -10,7 +10,9 @@ const App = () => {
   // handle any dark/light theme changes
   useColorScheme();
   // initialize analytics
-  splitbee.init();
+  splitbee.init({
+    token: '0A21LZ6677CQ',
+  });
 
   // get spoilers from URL params if any are provided
   const queryParams = new URLSearchParams(window.location.search);
