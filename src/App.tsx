@@ -11,7 +11,9 @@ const App = () => {
   useColorScheme();
   // initialize analytics
   splitbee.init({
-    token: '0A21LZ6677CQ',
+    token: "0A21LZ6677CQ",
+    scriptUrl: "/bee.js",
+    apiUrl: "/_hive",
   });
 
   // get spoilers from URL params if any are provided
@@ -53,7 +55,7 @@ const App = () => {
     // Reload current win if the filter of allowed campaigns updates
     const newWin = getRandomWin({ skip: win, spoilers });
     setWin(newWin);
-  }, [spoilers]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [spoilers]); // eslint-disable-line react-hooks/exhaustive-deps
   // we disable eslint here because we don't want useEffect to run when "win" updates
 
   return (
