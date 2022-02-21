@@ -11,6 +11,10 @@
         {
             "label": "Exandria Unlimited",
             "key": "EU"
+        },
+        {
+            "label": "C3",
+            "key": "3"
         }
     ],
     "wins": [
@@ -1533,6 +1537,70 @@
             "title": "What Comes Next | Exandria Unlimited | Episode 8",
             "victor": "Opal",
             "defeated": "Myr’atta Niselor"
+        },
+        {
+            "campaign": "3",
+            "episode": "1",
+            "video": "https://www.youtube.com/embed/P8pLvV3FjPc?start=7255",
+            "title": "The Draw of Destiny | Critical Role | Campaign 3, Episode 1",
+            "victor": "Ashton",
+            "defeated": "Broom"
+        },
+        {
+            "campaign": "3",
+            "episode": "1",
+            "video": "https://www.youtube.com/embed/P8pLvV3FjPc?start=7585",
+            "title": "The Draw of Destiny | Critical Role | Campaign 3, Episode 1",
+            "victor": "Orym",
+            "defeated": "Sword"
+        },
+        {
+            "campaign": "3",
+            "episode": "1",
+            "video": "https://www.youtube.com/embed/P8pLvV3FjPc?start=7964",
+            "title": "The Draw of Destiny | Critical Role | Campaign 3, Episode 1",
+            "victor": "Imogen",
+            "defeated": "Knife"
+        },
+        {
+            "campaign": "3",
+            "episode": "1",
+            "video": "https://www.youtube.com/embed/P8pLvV3FjPc?start=8129",
+            "title": "The Draw of Destiny | Critical Role | Campaign 3, Episode 1",
+            "victor": "Laudna",
+            "defeated": "Rug"
+        },
+        {
+            "campaign": "3",
+            "episode": "1",
+            "video": "https://www.youtube.com/embed/P8pLvV3FjPc?start=8452",
+            "title": "The Draw of Destiny | Critical Role | Campaign 3, Episode 1",
+            "victor": "Ashton",
+            "defeated": "Table"
+        },
+        {
+            "campaign": "3",
+            "episode": "3",
+            "video": "https://www.youtube.com/embed/POgfa65vi4k?start=10221",
+            "title": "The Trail and the Toll | Critical Role | Campaign 3, Episode 3",
+            "victor": "Fearne",
+            "defeated": "Shade Creeper"
+        },
+        {
+            "campaign": "3",
+            "episode": "5",
+            "video": "https://www.youtube.com/embed/MDyYQqefj4M?start=12362",
+            "title": "The Threat Between the Walls | Critical Role | Campaign 3, Episode 5",
+            "victor": "Dorian",
+            "defeated": "Dugger"
+        },
+        {
+            "campaign": "3",
+            "episode": "7",
+            "video": "https://www.youtube.com/embed/mRyO6ijeLx8?start=11927",
+            "title": "Behind the Curtain | Critical Role | Campaign 3, Episode 7",
+            "victor": "Dorian",
+            "defeated": "Spitting Mimic"
         }
     ],
     "images": {
