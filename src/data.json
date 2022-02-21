@@ -7,6 +7,10 @@
         {
             "label": "C2",
             "key": "2"
+        },
+        {
+            "label": "Exandria Unlimited",
+            "key": "EU"
         }
     ],
     "wins": [
@@ -1441,6 +1445,94 @@
             "title": "Long May He Reign | Critical Role | Campaign 2, Episode 140",
             "victor": "Jester",
             "defeated": "Lucien, Cognouza Incarnate"
+        },
+        {
+            "campaign": "EU",
+            "episode": "1",
+            "video": "https://www.youtube.com/embed/-ijPD6yNdMs?start=13187",
+            "title": "The Nameless Ones | Exandria Unlimited | Episode 1",
+            "victor": "Opal",
+            "defeated": "Assassin 2"
+        },
+        {
+            "campaign": "EU",
+            "episode": "1",
+            "video": "https://www.youtube.com/embed/-ijPD6yNdMs?start=13401",
+            "title": "The Nameless Ones | Exandria Unlimited | Episode 1",
+            "victor": "Dariax",
+            "defeated": "Assassin 4"
+        },
+        {
+            "campaign": "EU",
+            "episode": "4",
+            "video": "https://www.youtube.com/embed/qAhw51d3cGw?start=4591",
+            "title": "By the Road | Exandria Unlimited | Episode 4",
+            "victor": "Orym",
+            "defeated": "Driftwood Scorpion"
+        },
+        {
+            "campaign": "EU",
+            "episode": "4",
+            "video": "https://www.youtube.com/embed/qAhw51d3cGw?start=6421",
+            "title": "By the Road | Exandria Unlimited | Episode 4",
+            "victor": "Fy’ra Rai",
+            "defeated": "Dark Fearne"
+        },
+        {
+            "campaign": "EU",
+            "episode": "6",
+            "video": "https://www.youtube.com/embed/sLxUyJWXA0w?start=14353",
+            "title": "The Gift Among the Green | Exandria Unlimited | Episode 6",
+            "victor": "Orym",
+            "defeated": "Meat Beast"
+        },
+        {
+            "campaign": "EU",
+            "episode": "6",
+            "video": "https://www.youtube.com/embed/sLxUyJWXA0w?start=15747",
+            "title": "The Gift Among the Green | Exandria Unlimited | Episode 6",
+            "victor": "Fearne",
+            "defeated": "Assassin 2"
+        },
+        {
+            "campaign": "EU",
+            "episode": "7",
+            "video": "https://www.youtube.com/embed/LIrsjzz9TAQ?start=12390",
+            "title": "Beyond the Heart City | Exandria Unlimited | Episode 7",
+            "victor": "Dariax",
+            "defeated": "Stone Golem"
+        },
+        {
+            "campaign": "EU",
+            "episode": "7",
+            "video": "https://www.youtube.com/embed/LIrsjzz9TAQ?start=13709",
+            "title": "Beyond the Heart City | Exandria Unlimited | Episode 7",
+            "victor": "Dariax",
+            "defeated": "Stone Golem"
+        },
+        {
+            "campaign": "EU",
+            "episode": "7",
+            "video": "https://www.youtube.com/embed/LIrsjzz9TAQ?start=14177",
+            "title": "Beyond the Heart City | Exandria Unlimited | Episode 7",
+            "victor": "Dorian",
+            "defeated": "Stone Golem"
+        },
+        {
+            "campaign": "EU",
+            "episode": "8",
+            "video": "https://www.youtube.com/embed/73DU7qK-_xs?start=5288",
+            "title": "What Comes Next | Exandria Unlimited | Episode 8",
+            "victor": "Orym",
+            "defeated": "Ula"
+        },
+        {
+            "campaign": "EU",
+            "episode": "8",
+            "video": "https://www.youtube.com/embed/73DU7qK-_xs?start=10230",
+            "title": "What Comes Next | Exandria Unlimited | Episode 8",
+            "victor": "Opal",
+            "defeated": "Myr’atta Niselor"
         }
     ],
     "images": {
