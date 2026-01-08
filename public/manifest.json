@@ -1,0 +1,25 @@
+{
+  "short_name": "How do you want to do this?",
+  "name": "Watch a random \"How do you want to do this?\" moment from Critical Role.",
+  "icons": [
+    {
+      "src": "cropped-CriticalRole_Logo_Black512x512-192x192.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "cropped-CriticalRole_Logo_Black512x512-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "cropped-CriticalRole_Logo_Black512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#282c34"
+}
